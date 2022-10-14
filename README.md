@@ -10,5 +10,5 @@ archived format. The steps are:-
 5. Our data will be ready as a downloadable Zip file within 24 Hours
 
 The analysis of the profile is done with the help of Microsoft Excel and Microsoft Power BI Desktop. Data quality is checked and cleaned for duplicate or null values using 
-Excel and then it is loaded into Power BI. The important metrics for a LinkedIn profile anlysis are Connections, Messages and Companies Followed. Hence those are created 
+Excel and then it is loaded into Power BI. The important metrics for a LinkedIn profile analysis are Connections, Messages and Companies Followed. Hence those are created 
 using calculated measures and used in the visualizations.
